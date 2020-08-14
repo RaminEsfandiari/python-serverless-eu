@@ -4,7 +4,7 @@
 [![License: MIT][mit-license-svg]][mit-license]
 ![Github Release][release]
 
-# python-serverless-template
+## python-serverless-template
 
 This is a Github Template to generate Serverless APIs (and more) in Python using AWS SAM.
  
